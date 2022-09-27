@@ -1,2 +1,5 @@
 hello
+<<<<<<< HEAD
 aasdsdad
+=======
+>>>>>>> 35d0faa248957bde166338da45f704c8cdff4c74
